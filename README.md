@@ -13,8 +13,8 @@ stream, it will thus contain low, high, and band-pass
 filter circuits. Our circuits contains operational
 amplifier-based active filters (op-amps) and has
 capable of adding gains in 5 frequency bands, 
-20 Hz - 300 Hz 
-300 Hz - 1 kHz 
-1 kHz - 4 kHz  
-4 kHz - 10 kHz  
-10 kHz - 20kHz.
+* 20 Hz - 300 Hz 
+* 300 Hz - 1 kHz 
+* 1 kHz - 4 kHz  
+* 4 kHz - 10 kHz  
+* 10 kHz - 20kHz.
