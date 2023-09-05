@@ -18,3 +18,5 @@ capable of adding gains in 5 frequency bands,
 * 1 kHz - 4 kHz  
 * 4 kHz - 10 kHz  
 * 10 kHz - 20kHz.
+
+The equalizer circuit is built by assembling a power supply, audio source, buffer, differential amplifier, band pass filters, controller and volume controller. The gain for the different frequency bands is controlled through variable resistors. The frequency bands are then merged to create a single audio signal, which is then sent to a power amplifier and speaker.
