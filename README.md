@@ -3,7 +3,7 @@ In sound recording and production studios, equalization is a widely used method.
 tone and other different aspects in an audio signal.
 
 <p align="center">
-<img src="https://github.com/Moshintha20/Five-Band-Audio-Equalizer/assets/124574829/13d80db1-93dd-470e-b326-38b6df3cf771"  width="500" height="400">
+<img src='https://github.com/Moshintha20/Five-Band-Audio-Equalizer/blob/main/PCB%20image%201.jpeg'  width="500" height="400">
 </p>
 
 In this project, we’ll use audio filters to create a
